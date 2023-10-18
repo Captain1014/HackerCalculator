@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HackerCalculator/static/css/main.37db705c.css",
+    "main.js": "/HackerCalculator/static/js/main.fa8c18c9.js",
+    "index.html": "/HackerCalculator/index.html",
+    "main.37db705c.css.map": "/HackerCalculator/static/css/main.37db705c.css.map",
+    "main.fa8c18c9.js.map": "/HackerCalculator/static/js/main.fa8c18c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37db705c.css",
+    "static/js/main.fa8c18c9.js"
+  ]
+}
